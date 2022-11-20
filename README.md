@@ -6,5 +6,10 @@ Criação de um projeto em Java para aplicar na prática os conceitos relacionad
 :small_blue_diamond: Singleton <br>
 :small_blue_diamond: Strategy <br>
 :small_blue_diamond: Facade <br>
-:small_blue_diamond: utilização de Spring Framework <br>
+
+### :pencil2: Pré-requistos sugeridos
+- [x] Java JDK 11
+- [x] IDE IntelliJ
+- [x] Conhecimentos da linguagem Java
+- [x] Noções sobre Programação Orientada a Objeto
 
