@@ -1,3 +1,4 @@
+import facade_java.Facade;
 import singleton_java.*;
 import strategy_java.*;
 
@@ -50,5 +51,13 @@ public class Test {
         robo.mover();
         robo.mover();
         robo.mover();
+
+        System.out.println("\n ---------------------- \n");
+
+        //FACADE
+
+        Facade facade = new Facade();
+        facade.migrarCliente("Adriana", "03387-015");
+
     }
 }
